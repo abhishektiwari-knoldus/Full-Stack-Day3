@@ -1,0 +1,9 @@
+.gradle/
+build/
+.idea/
+*.iml
+out/
+.vscode/
+*:Zone.Identifier
+*.Zone.Identifier
+*Zone.Identifier
